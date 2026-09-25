@@ -8,6 +8,7 @@ date: 2024-10-08
 type: conference
 conference: "ACM VRST 2024"
 author_role: "First author"
+acm_url: https://dl.acm.org/doi/abs/10.1145/3641825.3689496
 image: /assets/pdfs/PosterVRST.pdf
 ---
 

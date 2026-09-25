@@ -9,6 +9,7 @@ type: conference
 conference: "ACM CHI 2026"
 award: "Best Paper Award"
 author_role: "Co-author"
+acm_url: https://dl.acm.org/doi/10.1145/3772318.3791414
 ---
 
 <span class="award-badge">{{ page.award }}</span>

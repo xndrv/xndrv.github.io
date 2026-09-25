@@ -15,7 +15,7 @@ ZupaSlica is made in the context of the course Computational Fabrication at UHas
 ## What can ZupaSlica do?
 
 The slicer is capable of loading STL files and displaying them.
-![ZupaSlica STL loaded](/assets/pictures/zupaslica_chopped.png)
+![ZupaSlica STL loaded](/assets/pictures/ZupaSlica/zupaslica_chopped.png)
 
 When a file is loaded multiple settings can be adjusted for the print:
 - Nozzle temperature

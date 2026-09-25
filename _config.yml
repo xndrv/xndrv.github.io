@@ -56,3 +56,5 @@ collections:
 
 exclude:
   - docs/
+  - vendor/
+  - .bundle/
