@@ -6,7 +6,8 @@
 # feature for the data you need to update frequently.
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# 'bundle exec jekyll serve'. If you change this file,
+# please restart the server process.
 #
 # If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
@@ -22,11 +23,11 @@ title: Xander Vaes
 description: >- # this means to ignore newlines until "baseurl:"
   Programmer, Scientist, Researcher, Maker
 
-baseurl: "" # 
-domain: xanderv-2158642.github.io
-url: https://xanderv-2158642.github.io 
+baseurl: "" #
+domain: xndrv.github.io
+url: https://xndrv.github.io
 
-github_username: XanderV-2158642
+github_username: xndrv
 linkedin_username: xander-vaes-9025721b1
 orcid_id: 0009-0007-1165-4666
 author: "Xander Vaes"
@@ -35,7 +36,7 @@ author: "Xander Vaes"
 social_links:
   - title: Github
     icon: github
-    url: https://github.com/XanderV-2158642
+    url: https://github.com/xndrv
   - title: LinkedIn
     icon: linkedin
     url: https://linkedin.com/in/xander-vaes-9025721b1

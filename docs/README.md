@@ -5,7 +5,7 @@ Personal portfolio and blog site built with Jekyll, hosted on GitHub Pages.
 ## Overview
 
 - **Author**: Xander Vaes
-- **Domain**: xanderv-2158642.github.io
+- **Domain**: xndrv.github.io
 - **Tech Stack**: Jekyll, Sass, GitHub Pages
 
 ## Site Structure
